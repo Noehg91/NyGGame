@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="70"
-        app:srcCompat="@drawable/img_llamar_uno" />
+        app:srcCompat="@drawable/img_intro_dos" />
 
     <TextView
         android:id="@+id/txt_intro_dos"
