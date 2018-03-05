@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NyG Game</string>
+
+    <!-- Introduction text and buttons -->
+    <string name="txt_intro_uno">¡Hola! Qué día tan bonito hace... Soy Gonza y, como cada Sábado, me voy a buscar a mi novia
+        para pasar una velada perfecta. ¿Conseguiré convencerla hoy para dar un paseo con este radiante sol?</string>
+    <string name="btn_intro_uno">¡Adelante!</string>
+
+    <string name="txt_intro_dos">¡Vaya! ¡Llego tarde! No sé si llamarla para avisar o ir directamente... </string>
+    <string name="btn_intro_dos_op1">Mejor la llamo, que si no se enfada...</string>
+    <string name="btn_intro_dos_op2">Buah, voy directamente, total, ya está en casa, no es que me tenga a esperar en la calle...</string>
+
+    <!-- Llama text and buttons -->
+</resources>

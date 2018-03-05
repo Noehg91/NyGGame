@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mainColor"
+    tools:context="com.nyg.nyggame.IntroUno">
+
+    <ImageView
+        android:id="@+id/img_intro_uno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="70"
+        app:srcCompat="@drawable/img_intro_uno" />
+
+    <TextView
+        android:id="@+id/txt_intro_uno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="25"
+        android:textColor="@color/txt"
+        android:padding="20px"
+        android:textAlignment="center"
+        android:text="@string/txt_intro_uno" />
+
+    <Button
+        android:id="@+id/btn_intro_uno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:layout_marginTop="2px"
+        android:background="@color/fndBtn"
+        android:textColor="@color/txt"
+        android:text="@string/btn_intro_uno"
+        android:textAllCaps="false"
+        android:onClick="nextActivity" />
+
+</LinearLayout>
