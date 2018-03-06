@@ -11,4 +11,22 @@
     <string name="btn_intro_dos_op2">Buah, voy directamente, total, ya está en casa, no es que me tenga a esperar en la calle...</string>
 
     <!-- Llama text and buttons -->
+    <string name="txt_llama_uno">Bueno, vale, Gonza... (Cuelga) No sé cómo me ha convencido, pero voy a vestirme... Dice que nos vemos en 10 minutos en el parque para dar un paseo...<string>
+	<string name="btn_llama_uno">¡A vestir!</string>
+				  
+	<string name="txt_llama_dos">¡Qué magnífico paseo, Noe! Deberíamos hacerlo más a menudo... ¡Mira! ¡Una cueva!</string>
+	<string name="btn_llama_dos">Acercarse</string>
+				  
+	string name="txt_llama_tres">Pero se está haciendo tarde... Quizá sea mejor explorarla otro día...</string>
+    <string name="btn_llama_tres_op1">¡A la mierda! ¡Exploremos!</string>
+    <string name="btn_llama_tres_op2">Mmm... Mejor... ¡al bosque!</string>
+
+	<!-- Cueva text and buttons -->
+    <string name="txt_cueva_uno">Esto está muy oscuro... Pero allí hay un pequeño resplandor... ¿Será una salida?<string>
+	<string name='btn_cueva_uno">Veamos...</string>
+				  
+	<string name="txt_cueva_dos">¡Carámbanos y carambajas! Somos... ¡ricos! ¡Ricos, te digo! Ya no me parecen tan caras las casas de Madrid... ¡Compremos una!</string>
+	<string name="btn_cueva_dos">¡A mirar Idealista!</string>
+				  
+	string name="txt_cueva_tres">¡Qué felices somos con Tarta y Mofletes!</string>
 </resources>
