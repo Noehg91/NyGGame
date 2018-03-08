@@ -11,7 +11,7 @@
     <string name="btn_intro_dos_op2">Buah, voy directamente, total, ya está en casa, no es que me tenga a esperar en la calle...</string>
 
     <!-- Llama text and buttons -->
-    <string name="txt_llama_uno">Bueno, vale, Gonza... (Cuelga) No sé cómo me ha convencido, pero voy a vestirme... Dice que nos vemos en 10 minutos en el parque para dar un paseo...<string>
+    <string name="txt_llama_uno">Bueno, vale, Gonza... (Cuelga) No sé cómo me ha convencido, pero voy a vestirme... Dice que nos vemos en 10 minutos en el parque para dar un paseo...</string>
 	<string name="btn_llama_uno">¡A vestir!</string>
 
 	<string name="txt_llama_dos">¡Qué magnífico paseo, Noe! Deberíamos hacerlo más a menudo... ¡Mira! ¡Una cueva!</string>
@@ -22,7 +22,7 @@
     <string name="btn_llama_tres_op2">Mmm... Mejor... ¡al bosque!</string>
 
 	<!-- Cueva text and buttons -->
-    <string name="txt_cueva_uno">Esto está muy oscuro... Pero allí hay un pequeño resplandor... ¿Será una salida?<string>
+    <string name="txt_cueva_uno">Esto está muy oscuro... Pero allí hay un pequeño resplandor... ¿Será una salida?</string>
 	<string name="btn_cueva_uno">Veamos...</string>
 				  
 	<string name="txt_cueva_dos">¡Carámbanos y carambajas! Somos... ¡ricos! ¡Ricos, te digo! Ya no me parecen tan caras las casas de Madrid... ¡Compremos una!</string>
@@ -37,10 +37,10 @@
 	<string name="txt_bosque_dos">Bueno, ya estamos a salvo... Un momento, ¿quién es ese?</string>
 	<string name="btn_bosque_dos">¡Desconocido salvaje apareció!</string>
 
-	<string name="txt_bosque_tres">-¡Hola! ¡Soy Íñigo Montoya, tú mat...!<br>-¿Íñigo Montoya? Más bien pareces Robin Hood...<br>-Bueno, sí, soy Robin Hood, pero me aburre presentarme siempre igual...</string>
+	<string name="txt_bosque_tres">-¡Hola! ¡Soy Íñigo Montoya, tú mat...!<br />-¿Íñigo Montoya? Más bien pareces Robin Hood...<br />-Bueno, sí, soy Robin Hood, pero me aburre presentarme siempre igual...</string>
 	<string name="btn_bosque_tres">Pasemos de él...</string>
 
-	<string name="txt_bosque_cuatro">-¡Un momento! ¿¡A dónde os creéis que vais!? ¡Yo soy el justiciero del pueblo! ¡Robo a los ricos para dárselo a los pobres!<br>-Pero... ¡si nosotros somos pobres!</string>
+	<string name="txt_bosque_cuatro">-¡Un momento! ¿¡A dónde os creéis que vais!? ¡Yo soy el justiciero del pueblo! ¡Robo a los ricos para dárselo a los pobres!<br />-Pero... ¡si nosotros somos pobres!</string>
 	<string name="btn_bosque_cuatro">Recibir todo el dinero que nos da Robin Hood</string>
 
 	<string name="txt_bosque_cinco">¡Ajá! ¡Ahora sois ricos! ¡Yo soy el justiciero del pueblo! ¡Robo a los ricos para dárselo a los pobres! Un momento... Oh oh... Está volviendo a pasar... Bucle infinito en Matrix... ¡Que alguien lo reinicie, por favor!</string>

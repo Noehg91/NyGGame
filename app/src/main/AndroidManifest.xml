@@ -16,6 +16,18 @@
             </intent-filter>
         </activity>
         <activity android:name=".IntroDos"></activity>
+        <activity android:name=".LlamaUno"></activity>
+        <activity android:name=".LlamaDos"></activity>
+        <activity android:name=".LlamaTres"></activity>
+        <activity android:name=".CuevaUno"></activity>
+        <activity android:name=".CuevaDos"></activity>
+        <activity android:name=".CuevaTres"></activity>
+        <activity android:name=".BosqueUno"></activity>
+        <activity android:name=".BosqueDos"></activity>
+        <activity android:name=".BosqueTres"></activity>
+        <activity android:name=".BosqueCuatro"></activity>
+        <activity android:name=".BosqueCinco"></activity>
+        <activity android:name=".NoLlamaUno"></activity>
     </application>
 
 </manifest>
