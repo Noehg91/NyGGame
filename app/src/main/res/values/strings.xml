@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NyG Game</string>
 
-    <!-- Introduction text and buttons -->
+    <!-- Introduction -->
     <string name="txt_intro_uno">¡Hola! Qué día tan bonito hace... Soy Gonza y, como cada Sábado, me voy a buscar a mi novia
         para pasar una velada perfecta. ¿Conseguiré convencerla hoy para dar un paseo con este radiante sol?</string>
     <string name="btn_intro_uno">¡Adelante!</string>
@@ -10,7 +10,7 @@
     <string name="btn_intro_dos_op1">Mejor la llamo, que si no se enfada...</string>
     <string name="btn_intro_dos_op2">Buah, voy directamente, total, ya está en casa, no es que me tenga a esperar en la calle...</string>
 
-    <!-- Llama text and buttons -->
+    <!-- Llama -->
     <string name="txt_llama_uno">Bueno, vale, Gonza... (Cuelga) No sé cómo me ha convencido, pero voy a vestirme... Dice que nos vemos en 10 minutos en el parque para dar un paseo...</string>
 	<string name="btn_llama_uno">¡A vestir!</string>
 
@@ -21,14 +21,51 @@
     <string name="btn_llama_tres_op1">¡A la mierda! ¡Exploremos!</string>
     <string name="btn_llama_tres_op2">Mmm... Mejor... ¡al bosque!</string>
 
-	<!-- Cueva text and buttons -->
+	<!-- Cueva -->
     <string name="txt_cueva_uno">Esto está muy oscuro... Pero allí hay un pequeño resplandor... ¿Será una salida?</string>
 	<string name="btn_cueva_uno">Veamos...</string>
-				  
-	<string name="txt_cueva_dos">¡Carámbanos y carambajas! Somos... ¡ricos! ¡Ricos, te digo! Ya no me parecen tan caras las casas de Madrid... ¡Compremos una!</string>
-	<string name="btn_cueva_dos">¡A mirar Idealista!</string>
-				  
-	<string name="txt_cueva_tres">¡Qué felices somos con Tarta y Mofletes!</string>
+
+	<string name="txt_cueva_dos">¡Hola exploradores! A la izquierda tenéis un dragón y a la derecha tenéis un mustagán... Debéis decidir con cuál luchar para llevaros el tesoro.</string>
+	<string name="btn_cueva_dos_op1">Ese dragón es muy pequeño... ¡vayamos a por él!</string>
+	<string name="btn_cueva_dos_op2">Aunque un mustagán... Será bastante inútil...</string>
+
+	<!-- Insultos -->
+	<string name="txt_insultos_uno">¡Vaya! Mi disfraz no os ha asustado lo suficiente... ¡Soy un pirata! Y os reto a una pelea... ¡De insultos!</string>
+	<string name="btn_insultos_uno">¿Preparados?</string>
+
+	<string name="txt_insultos_dos">¡Luchas como un ganadero!</string>
+	<string name="btn_insultos_dos_op1">Ya te están fastidiando otra vez las almorranas, ¿eh?</string>
+	<string name="btn_insultos_dos_op2">Qué apropiado, tú peleas como una vaca.</string>
+
+	<string name="txt_insultos_tres">¡He hablado con simios más educados que tú!</string>
+	<string name="btn_insultos_tres_op1">Me alegra que asistieras a tu reunión familiar diaria.</string>
+	<string name="btn_insultos_tres_op2">Te habrá enseñado todo lo que sabes.</string>
+
+	<string name="txt_insultos_cuatro">¡Tienes los modales de un mendigo!</string>
+	<string name="btn_insultos_cuatro_op1">Quería asegurarme de que estuvieras a gusto conmigo.</string>
+	<string name="btn_insultos_cuatro_op2">Yo soy cola, tú pegamento...</string>
+
+	<string name="txt_insultos_cinco">¡Vaya! Has acertado menos de la mitad... tendrás que repetir la pelea.</string>
+	<string name="btn_insultos_cinco">¡Estoy listo!</string>
+
+	<string name="txt_insultos_seis">¡Enhorabuena! ¡Has ganado la pelea! Y a cambio tienes... ¡Todo este montón de oro o esta fantástica caja!</string>
+	<string name="btn_insultos_seis_op1">¡La caja, la caja!</string>
+	<string name="btn_insultos_seis_op2">Mmmm... la caja... pero el oro... pero la caja... Venga, va, el oro... ¡Que no! ¡La caja!</string>
+
+	<string name="txt_insultos_siete">Igual con el oro podríamos habernos comprado una mansión... ¡Pero con la caja pudimos hacer una casita para Tarta y Mofletes! :)</string>
+
+	<!-- Mustagan -->
+	<string name="txt_mustagan_uno">Seguro que solo lucháis conmigo porque parezco tonto :(</string>
+	<string name="btn_mustagan_uno">Eh... No...</string>
+
+	<string name="txt_mustagan_dos">Está bien, sí que soy bastante tonto, os dejaré pasar si me dáis la caja. Me encantan las cajas.</string>
+	<string name="btn_mustagan_dos">¿Eh? ¿Qué caja? Bueno, está bien...</string>
+
+	<string name="txt_mustagan_tres">¡Enhorabuena! ¡Has ganado la pelea! Y a cambio tienes... ¡Todo este montón de oro o esta fantástica caja!</string>
+	<string name="btn_mustagan_tres">¿Ein? ¡Ah, a eso se refería! Bueno, pues nos quedaremos el oro, qué remedio...</string>
+
+	<string name="txt_mustagan_cuatro">¡Toma ya qué mansión! Aunque Tarta y Mofletes sólo quieren la casa de cartón, ellos hubieran preferido la caja...</string>
+
 				  
 	<!-- Bosque text and buttons -->
 	<string name="txt_bosque_uno">Qué bonita la naturaleza... Aquí no hay peligros... Salvo... ¡Un avispero!</string>
@@ -44,4 +81,25 @@
 	<string name="btn_bosque_cuatro">Recibir todo el dinero que nos da Robin Hood</string>
 
 	<string name="txt_bosque_cinco">¡Ajá! ¡Ahora sois ricos! ¡Yo soy el justiciero del pueblo! ¡Robo a los ricos para dárselo a los pobres! Un momento... Oh oh... Está volviendo a pasar... Bucle infinito en Matrix... ¡Que alguien lo reinicie, por favor!</string>
+
+	<!-- No llama -->
+	<string name="txt_nollama_uno">¡Llegas tarde! Me tienes que avisar cuando vayas a llegar tarde para que yo me pueda organizar blablabla</string>
+	<string name="btn_nollama_uno">Siempre igual... Tenía que haberla llamado...</string>
+
+	<string name="txt_nollama_dos">Pues tengo una sorpresa para ti :)</string>
+	<string name="btn_nollama_dos">¿Qué será?</string>
+
+	<string name="txt_nollama_tres">He conseguido que venga...</string>
+	<string name="btn_nollama_tres">???</string>
+
+	<string name="txt_nollama_cuatro">¡Zidane!</string>
+	<string name="btn_nollama_cuatro">¡¡¡!!!</string>
+
+	<string name="txt_nollama_cinco">¡Oh la lá! ¡Qué regalazo!</string>
+	<string name="btn_nollama_cinco">Un momento... Esto es un poco raro...</string>
+
+	<string name="txt_nollama_seis">Este Zidane es un poco extraño... ¡Oh, no! ¡Estoy soñando!</string>
+	<string name="btn_nollama_seis">Pero... Si te das cuenta de que estás soñando dejas de soñar... Entonces...</string>
+
+	<string name="txt_nollama_siete">¡¡¡Es un sueño del perro!!! ¿Acaso mi vida es Lost?</string>
 </resources>
