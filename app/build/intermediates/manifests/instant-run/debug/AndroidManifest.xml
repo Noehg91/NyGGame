@@ -17,26 +17,40 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.nyg.nyggame.IntroUno" >
+        <activity android:name="com.nyg.nyggame.Inicio" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.nyg.nyggame.IntroUno" />
         <activity android:name="com.nyg.nyggame.IntroDos" />
         <activity android:name="com.nyg.nyggame.LlamaUno" />
         <activity android:name="com.nyg.nyggame.LlamaDos" />
         <activity android:name="com.nyg.nyggame.LlamaTres" />
         <activity android:name="com.nyg.nyggame.CuevaUno" />
         <activity android:name="com.nyg.nyggame.CuevaDos" />
-        <activity android:name="com.nyg.nyggame.CuevaTres" />
+        <activity android:name="com.nyg.nyggame.InsultosIni" />
+        <activity android:name="com.nyg.nyggame.Insultos" />
+        <activity android:name="com.nyg.nyggame.InsultosFail" />
+        <activity android:name="com.nyg.nyggame.InsultosFin" />
+        <activity android:name="com.nyg.nyggame.MustaganUno" />
+        <activity android:name="com.nyg.nyggame.MustaganDos" />
+        <activity android:name="com.nyg.nyggame.MustaganTres" />
+        <activity android:name="com.nyg.nyggame.MustaganCuatro" />
         <activity android:name="com.nyg.nyggame.BosqueUno" />
         <activity android:name="com.nyg.nyggame.BosqueDos" />
         <activity android:name="com.nyg.nyggame.BosqueTres" />
         <activity android:name="com.nyg.nyggame.BosqueCuatro" />
         <activity android:name="com.nyg.nyggame.BosqueCinco" />
         <activity android:name="com.nyg.nyggame.NoLlamaUno" />
+        <activity android:name="com.nyg.nyggame.NoLlamaDos" />
+        <activity android:name="com.nyg.nyggame.NoLlamaTres" />
+        <activity android:name="com.nyg.nyggame.NoLlamaCuatro" />
+        <activity android:name="com.nyg.nyggame.NoLlamaCinco" />
+        <activity android:name="com.nyg.nyggame.NoLlamaSeis" />
+        <activity android:name="com.nyg.nyggame.NoLlamaSiete" />
 
         <meta-data
             android:name="android.support.VERSION"

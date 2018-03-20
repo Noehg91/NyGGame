@@ -4,7 +4,10 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
 public class CommonFunctions {
+    public boolean[] finales = {false, false, false, false};
+
     public static void setImage(ImageView image, int src) {
         image.setImageResource(src);
     }

@@ -9,25 +9,39 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IntroUno">
+        <activity android:name=".Inicio">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".IntroUno"></activity>
         <activity android:name=".IntroDos"></activity>
         <activity android:name=".LlamaUno"></activity>
         <activity android:name=".LlamaDos"></activity>
         <activity android:name=".LlamaTres"></activity>
         <activity android:name=".CuevaUno"></activity>
         <activity android:name=".CuevaDos"></activity>
-        <activity android:name=".CuevaTres"></activity>
+        <activity android:name=".InsultosIni"></activity>
+        <activity android:name=".Insultos"></activity>
+        <activity android:name=".InsultosFail"></activity>
+        <activity android:name=".InsultosFin"></activity>
+        <activity android:name=".MustaganUno"></activity>
+        <activity android:name=".MustaganDos"></activity>
+        <activity android:name=".MustaganTres"></activity>
+        <activity android:name=".MustaganCuatro"></activity>
         <activity android:name=".BosqueUno"></activity>
         <activity android:name=".BosqueDos"></activity>
         <activity android:name=".BosqueTres"></activity>
         <activity android:name=".BosqueCuatro"></activity>
         <activity android:name=".BosqueCinco"></activity>
         <activity android:name=".NoLlamaUno"></activity>
+        <activity android:name=".NoLlamaDos"></activity>
+        <activity android:name=".NoLlamaTres"></activity>
+        <activity android:name=".NoLlamaCuatro"></activity>
+        <activity android:name=".NoLlamaCinco"></activity>
+        <activity android:name=".NoLlamaSeis"></activity>
+        <activity android:name=".NoLlamaSiete"></activity>
     </application>
 
 </manifest>

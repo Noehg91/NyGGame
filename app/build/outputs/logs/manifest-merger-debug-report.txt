@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\68bc5198da5b615eed25e4a2a2c50772\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5b1cdada70aa3e2e6999bef78f25ef8f\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\5f5ab1f667dfa03f74c633bf94e748d8\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noelia\.gra
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bea14f59b3b3bbfb017e333c856812e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8cd49c25c70816e14079a1666d545c57\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c5bea4f08a0061a23c1ccf3c821d3bc0\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:5:5-45:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\68bc5198da5b615eed25e4a2a2c50772\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\68bc5198da5b615eed25e4a2a2c50772\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noelia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5b1cdada70aa3e2e6999bef78f25ef8f\AndroidManifest.xml:9:5-20
@@ -68,10 +68,10 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noelia\.gradle\cache
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.nyg.nyggame.IntroUno
+activity#com.nyg.nyggame.Inicio
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:12:9-17:20
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:12:19-43
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:12:19-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
@@ -82,58 +82,114 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:15:27-74
-activity#com.nyg.nyggame.IntroDos
+activity#com.nyg.nyggame.IntroUno
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:18:9-55
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:18:19-43
-activity#com.nyg.nyggame.LlamaUno
+activity#com.nyg.nyggame.IntroDos
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:19:9-55
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:19:19-43
-activity#com.nyg.nyggame.LlamaDos
+activity#com.nyg.nyggame.LlamaUno
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:20:9-55
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.nyg.nyggame.LlamaDos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:21:19-43
 activity#com.nyg.nyggame.LlamaTres
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:21:9-56
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:22:9-56
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:21:19-44
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:22:19-44
 activity#com.nyg.nyggame.CuevaUno
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:22:9-55
-	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:22:19-43
-activity#com.nyg.nyggame.CuevaDos
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:23:9-55
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:23:19-43
-activity#com.nyg.nyggame.CuevaTres
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:24:9-56
+activity#com.nyg.nyggame.CuevaDos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:24:9-55
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:24:19-44
-activity#com.nyg.nyggame.BosqueUno
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:25:9-56
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:24:19-43
+activity#com.nyg.nyggame.InsultosIni
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:25:9-58
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:25:19-44
-activity#com.nyg.nyggame.BosqueDos
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:26:9-56
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:25:19-46
+activity#com.nyg.nyggame.Insultos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:26:9-55
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:26:19-44
-activity#com.nyg.nyggame.BosqueTres
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:27:9-57
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:26:19-43
+activity#com.nyg.nyggame.InsultosFail
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:27:9-59
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:27:19-45
-activity#com.nyg.nyggame.BosqueCuatro
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:28:9-59
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.nyg.nyggame.InsultosFin
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:28:9-58
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:28:19-47
-activity#com.nyg.nyggame.BosqueCinco
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:28:19-46
+activity#com.nyg.nyggame.MustaganUno
 ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:29:9-58
 	android:name
 		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:29:19-46
-activity#com.nyg.nyggame.NoLlamaUno
-ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:30:9-57
+activity#com.nyg.nyggame.MustaganDos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:30:9-58
 	android:name
-		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:30:19-45
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:30:19-46
+activity#com.nyg.nyggame.MustaganTres
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.nyg.nyggame.MustaganCuatro
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:32:19-49
+activity#com.nyg.nyggame.BosqueUno
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:33:19-44
+activity#com.nyg.nyggame.BosqueDos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:34:19-44
+activity#com.nyg.nyggame.BosqueTres
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.nyg.nyggame.BosqueCuatro
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:36:19-47
+activity#com.nyg.nyggame.BosqueCinco
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:37:19-46
+activity#com.nyg.nyggame.NoLlamaUno
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:38:9-57
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:38:19-45
+activity#com.nyg.nyggame.NoLlamaDos
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:39:9-57
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:39:19-45
+activity#com.nyg.nyggame.NoLlamaTres
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:40:9-58
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:40:19-46
+activity#com.nyg.nyggame.NoLlamaCuatro
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:41:9-60
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:41:19-48
+activity#com.nyg.nyggame.NoLlamaCinco
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:42:9-59
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.nyg.nyggame.NoLlamaSeis
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:43:9-58
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:43:19-46
+activity#com.nyg.nyggame.NoLlamaSiete
+ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:44:9-59
+	android:name
+		ADDED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml:44:19-47
 uses-sdk
 INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Noelia\AndroidStudioProjects\NyGGame\app\src\main\AndroidManifest.xml
